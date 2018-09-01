@@ -1,0 +1,15 @@
+{
+  "name": "possist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "mohit",
+  "license": "ISC",
+  "dependencies": {
+    "js-sha256": "^0.9.0"
+  }
+}
