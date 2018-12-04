@@ -5,5 +5,4 @@
 2. npm install
 3. node server.js 
 
-I have done this as per my understanding. 
-I have done many other projects on Node.js, MongoDB, Expres.js and React.js. You can check my profile on github. 
+This project was done according to the problem set sent by POSist. 
